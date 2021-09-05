@@ -291,7 +291,7 @@ body {
 }
 
 .time {
-    font-size: 36px;
+    font-size: 28px;
     font-weight: 500;
 }
 
@@ -319,7 +319,7 @@ body {
     display: block;
     width: 40px;
     position: relative;
-    top: 5px;
+    top: 3px;
 }
 
 .weatherInfo > span {
